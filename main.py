@@ -44,7 +44,7 @@ while videoStreamObject .isOpened():
         # If "s"(save) is pressed save the Frame 
         # Note:- Here the Frame is Saved without the rectangle box
         elif k == ord('s'):
-            cv2.imwrite('c'+str(image_index)+'.jpg',frame)
+            cv2.imwrite('t'+str(image_index)+'.jpg',frame)
             image_index += 1
 
         # Draw a rectangle around the face if Present
@@ -58,7 +58,7 @@ while videoStreamObject .isOpened():
         
         # When button y is pressed save the frame including the rectangle
         if k == ord('y'):
-            cv2.imwrite('c'+str(image_index)+'_withframe.jpg',frame)
+            cv2.imwrite('t'+str(image_index)+'_withframe.jpg',frame)
             image_index+=1
 
     else:
