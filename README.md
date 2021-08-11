@@ -36,9 +36,18 @@ python main.py
 ```
 Make sure ur are in the same directory i.e inside the downloaded folder.
 
-5) Press keyboard button "Q" to quit and close all the applications
+5) Press keyboard button "Q" to quit and close all the applications.
 Press keyboard button "S" to save the picture from your camera.
+Sample Output:-
+
+
+![Sample Output](https://raw.githubusercontent.com/UdayKiranPadhy/Face-Detection-Using-Open-CV/main/t1.jpg)
+
+
 Press key "Y" to save to the picture including the frame.
+
+![Sample Output](https://raw.githubusercontent.com/UdayKiranPadhy/Face-Detection-Using-Open-CV/main/t0_withframe.jpg)
+
 
 6) All the images are saved in the same directory.
 
