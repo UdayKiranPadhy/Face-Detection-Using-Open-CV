@@ -18,6 +18,7 @@ There are many real time applications of face recognition, The below mentioned a
 
 ### How To use
 1) Download these files into Your Local machine . You can do it by Clicking on the green color "Code" button and then clicking on the "Download Zip". Extract those files in your local machine.
+![Download Button](https://raw.githubusercontent.com/UdayKiranPadhy/Face-Detection-Using-Open-CV/main/github%20download.jpg)
 
 2) If you have python 3.x installed in your PC then you can safely skip this step , If no then You need to have Python 3.0 (or above) installed in you PC . You can download it from the official link https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe .
 
